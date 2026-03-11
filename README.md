@@ -155,7 +155,7 @@ MIT License - Sinta-se livre para usar este projeto em seus próprios projetos d
 ---
 
 **Autor**: Diogo  
-**Data**: 2024  
+**Data**: 2026 
 **Versão**: 1.0
 
 **Feito com dedicação por Diogo** 💙  
