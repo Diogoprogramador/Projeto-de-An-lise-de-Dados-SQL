@@ -1,0 +1,21 @@
+id_cliente,nome,email,cidade,estado,data_cadastro,segmento
+101,João Silva,joao@email.com,São Paulo,SP,2023-01-15,Premium
+102,Maria Santos,maria@email.com,Porto Alegre,RS,2023-02-20,Standard
+103,Carlos Oliveira,carlos@email.com,Salvador,BA,2023-03-10,Standard
+104,Ana Costa,ana@email.com,Rio de Janeiro,RJ,2023-01-25,Premium
+105,Pedro Lima,pedro@email.com,São Paulo,SP,2023-04-05,Standard
+106,Luiza Fernandes,luiza@email.com,Manaus,AM,2023-02-15,Standard
+107,Ricardo Mendes,ricardo@email.com,Porto Alegre,RS,2023-05-12,Premium
+108,Juliana Alves,juliana@email.com,Belo Horizonte,MG,2023-03-20,Standard
+109,Fernando Gomes,fernando@email.com,Recife,PE,2023-01-30,Standard
+110,Camila Dias,camila@email.com,Florianópolis,SC,2023-04-18,Premium
+111,Roberto Silva,roberto@email.com,Brasília,DF,2023-02-28,Standard
+112,Tatiana Oliveira,tatiana@email.com,São Paulo,SP,2023-06-01,Premium
+113,Marcos Costa,marcos@email.com,Salvador,BA,2023-03-15,Standard
+114,Patrícia Lima,patricia@email.com,Rio de Janeiro,RJ,2023-05-20,Premium
+115,André Santos,andre@email.com,Porto Alegre,RS,2023-02-10,Standard
+116,Lúcia Mendes,lucia@email.com,Manaus,AM,2023-04-25,Standard
+117,Eduardo Alves,eduardo@email.com,Belo Horizonte,MG,2023-01-18,Premium
+118,Sofia Gomes,sofia@email.com,Recife,PE,2023-03-08,Standard
+119,Gustavo Dias,gustavo@email.com,Florianópolis,SC,2023-05-15,Premium
+120,Fernanda Costa,fernanda@email.com,Brasília,DF,2023-02-22,Standard
